@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+#Bubble sort 
 void bubbleSort(int arr[], int n)
 {
 	int i, j;
