@@ -5,7 +5,9 @@ Welcome to the 100 Days of DSA Challenge! This challenge is designed to help you
 ## Roadmap
 
 ![DSA Roadmap](https://github.com/Shivani-Sharma-23/100-Days_of_DSA/blob/main/Roadmap.jpg)
-
+<br><br>
+**Source**: [Roadmap](https://whimsical.com/100-days-of-dsa-JjsnhMcKViecPVFfFAZx3g)<br>
+**Source Video**: [Video](https://youtu.be/hszVCtcadaU?si=nf_wMgGRrvV8K0cA)
 
 ## Rules
 
