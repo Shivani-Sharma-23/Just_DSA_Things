@@ -4,7 +4,7 @@ Welcome to the 100 Days of DSA Challenge! This challenge is designed to help you
 
 ## Roadmap
 
-![DSA Roadmap](https://github.com/Shivani-Sharma-23/100-Days_of_DSA/blob/main/Screenshot%202024-01-05%20143025.png)
+![DSA Roadmap](https://github.com/Shivani-Sharma-23/100-Days_of_DSA/blob/main/Roadmap_DSA.png)
 <br><br>
 **Source**: [Roadmap](https://neetcode.io/roadmap)
 
