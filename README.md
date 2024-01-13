@@ -1,4 +1,4 @@
-# 100 Days of DSA Challenge
+# Learning DSA :
 
 Welcome to the 100 Days of DSA Challenge! This challenge is designed to help you strengthen skills in Data Structures and Algorithms using C++. 
 
